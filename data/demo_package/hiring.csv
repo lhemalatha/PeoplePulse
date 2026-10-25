@@ -1,0 +1,291 @@
+CandidateID,JobRequisitionID,EmployeeID,JobRole,Department,Location,ApplicationDate,RequisitionOpenDate,OfferDate,HireDate,CandidateStatus,HiringSource,DataSource
+CAND00001,REQ0049,1747,Sales Executive,Human Resources,Mumbai,2025-01-20,2025-01-18,2025-02-14,2025-02-19,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00002,REQ0079,,Research Scientist,Sales,Mumbai,2026-06-21,2026-06-17,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00003,REQ0042,12,Sales Executive,Sales,Chennai,2025-07-05,2025-06-22,2025-07-15,2025-08-04,Hired,Employee Referral,SIMULATED_DEMO
+CAND00004,REQ0009,,Manufacturing Director,Research & Development,Hyderabad,2026-04-17,2026-04-03,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00005,REQ0008,1373,Human Resources,Sales,Chennai,2026-03-21,2026-03-04,2026-04-21,2026-05-14,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00006,REQ0004,407,Sales Executive,Research & Development,Delhi NCR,2025-11-25,2025-11-11,2025-12-16,2025-12-24,Hired,Campus,SIMULATED_DEMO
+CAND00007,REQ0079,,Laboratory Technician,Sales,Hyderabad,2025-11-25,2025-11-19,,,Withdrawn,Employee Referral,SIMULATED_DEMO
+CAND00008,REQ0060,1587,Healthcare Representative,Sales,Pune,2025-12-13,2025-11-15,2025-12-24,2026-01-05,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00009,REQ0019,292,Human Resources,Human Resources,Delhi NCR,2025-05-04,2025-04-16,2025-05-18,2025-06-11,Hired,Employee Referral,SIMULATED_DEMO
+CAND00010,REQ0057,,Manager,Sales,Pune,2026-01-29,2026-01-20,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00011,REQ0022,316,Human Resources,Human Resources,Bengaluru,2025-12-05,2025-11-06,2025-12-16,2025-12-31,Hired,Company Website,SIMULATED_DEMO
+CAND00012,REQ0074,1270,Research Director,Sales,Chennai,2026-06-03,2026-05-26,2026-06-24,2026-07-16,Hired,Employee Referral,SIMULATED_DEMO
+CAND00013,REQ0007,1704,Research Scientist,Research & Development,Chennai,2025-06-03,2025-05-15,2025-06-12,2025-06-18,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00014,REQ0078,482,Research Director,Sales,Delhi NCR,2025-09-24,2025-08-28,2025-10-16,2025-10-31,Hired,Company Website,SIMULATED_DEMO
+CAND00015,REQ0006,,Research Scientist,Human Resources,Chennai,2025-05-10,2025-05-06,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00016,REQ0038,,Laboratory Technician,Human Resources,Bengaluru,2025-12-18,2025-12-18,,,Rejected,Campus,SIMULATED_DEMO
+CAND00017,REQ0050,,Human Resources,Sales,Chennai,2025-10-07,2025-09-09,,,Rejected,Campus,SIMULATED_DEMO
+CAND00018,REQ0019,2038,Research Scientist,Research & Development,Pune,2026-03-03,2026-02-22,2026-04-02,2026-04-11,Hired,Employee Referral,SIMULATED_DEMO
+CAND00019,REQ0045,161,Sales Executive,Human Resources,Chennai,2025-07-23,2025-06-25,2025-08-17,2025-09-10,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00020,REQ0040,,Research Director,Sales,Bengaluru,2025-07-24,2025-07-18,,,Withdrawn,Job Portal,SIMULATED_DEMO
+CAND00021,REQ0025,,Healthcare Representative,Human Resources,Delhi NCR,2025-08-02,2025-07-17,,,Offer Declined,Recruitment Agency,SIMULATED_DEMO
+CAND00022,REQ0073,,Research Scientist,Research & Development,Delhi NCR,2026-04-28,2026-04-18,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00023,REQ0028,,Human Resources,Human Resources,Delhi NCR,2025-09-17,2025-08-22,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00024,REQ0023,1650,Human Resources,Research & Development,Chennai,2025-04-05,2025-03-12,2025-05-06,2025-05-29,Hired,Job Portal,SIMULATED_DEMO
+CAND00025,REQ0043,,Research Director,Research & Development,Pune,2025-05-27,2025-05-03,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00026,REQ0036,,Research Scientist,Research & Development,Pune,2026-01-17,2026-01-01,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00027,REQ0057,,Sales Representative,Human Resources,Delhi NCR,2025-09-07,2025-08-24,2025-09-15,,Offer Accepted,Employee Referral,SIMULATED_DEMO
+CAND00028,REQ0061,,Sales Executive,Research & Development,Bengaluru,2026-06-17,2026-06-15,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00029,REQ0028,428,Manager,Research & Development,Pune,2025-07-03,2025-07-02,2025-07-25,2025-08-09,Hired,Campus,SIMULATED_DEMO
+CAND00030,REQ0014,643,Research Director,Research & Development,Delhi NCR,2026-05-15,2026-04-24,2026-06-08,2026-06-16,Hired,Campus,SIMULATED_DEMO
+CAND00031,REQ0078,,Healthcare Representative,Sales,Pune,2025-08-28,2025-08-08,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00032,REQ0013,,Research Scientist,Human Resources,Chennai,2026-03-23,2026-03-14,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00033,REQ0001,,Sales Representative,Research & Development,Pune,2025-04-03,2025-03-18,,,Withdrawn,Recruitment Agency,SIMULATED_DEMO
+CAND00034,REQ0027,,Sales Executive,Human Resources,Mumbai,2025-02-24,2025-02-03,,,Offer Declined,Campus,SIMULATED_DEMO
+CAND00035,REQ0047,780,Laboratory Technician,Sales,Hyderabad,2025-01-03,2024-12-20,2025-01-20,2025-01-23,Hired,Campus,SIMULATED_DEMO
+CAND00036,REQ0072,,Human Resources,Sales,Chennai,2026-06-12,2026-05-29,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00037,REQ0070,1317,Sales Representative,Sales,Delhi NCR,2025-05-02,2025-04-08,2025-05-23,2025-05-26,Hired,Employee Referral,SIMULATED_DEMO
+CAND00038,REQ0029,1557,Manager,Human Resources,Pune,2025-08-03,2025-07-16,2025-08-31,2025-09-19,Hired,Employee Referral,SIMULATED_DEMO
+CAND00039,REQ0025,1541,Research Director,Research & Development,Chennai,2025-06-16,2025-05-27,2025-07-10,2025-07-29,Hired,Employee Referral,SIMULATED_DEMO
+CAND00040,REQ0032,,Sales Representative,Research & Development,Chennai,2025-05-19,2025-05-15,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00041,REQ0044,,Sales Executive,Sales,Mumbai,2025-11-26,2025-11-22,,,Offer Declined,Job Portal,SIMULATED_DEMO
+CAND00042,REQ0068,1960,Research Scientist,Research & Development,Pune,2025-12-23,2025-12-13,2026-01-03,2026-01-18,Hired,Company Website,SIMULATED_DEMO
+CAND00043,REQ0014,1425,Healthcare Representative,Human Resources,Pune,2025-01-30,2025-01-15,2025-03-02,2025-03-05,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00044,REQ0010,319,Manager,Research & Development,Bengaluru,2025-08-09,2025-07-31,2025-09-04,2025-09-09,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00045,REQ0031,,Manager,Research & Development,Mumbai,2025-11-21,2025-10-23,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00046,REQ0031,,Human Resources,Research & Development,Bengaluru,2025-10-17,2025-09-23,,,Offer Declined,Company Website,SIMULATED_DEMO
+CAND00047,REQ0030,1749,Research Scientist,Human Resources,Pune,2025-02-23,2025-02-11,2025-03-13,2025-03-28,Hired,Company Website,SIMULATED_DEMO
+CAND00048,REQ0008,1483,Research Scientist,Research & Development,Chennai,2025-12-29,2025-12-01,2026-01-09,2026-01-20,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00049,REQ0030,1973,Laboratory Technician,Human Resources,Bengaluru,2026-06-18,2026-06-02,2026-07-02,2026-07-04,Hired,Company Website,SIMULATED_DEMO
+CAND00050,REQ0015,,Sales Representative,Research & Development,Chennai,2025-05-21,2025-04-24,,,Rejected,Campus,SIMULATED_DEMO
+CAND00051,REQ0049,,Healthcare Representative,Sales,Mumbai,2026-01-26,2026-01-03,,,Offer Declined,Company Website,SIMULATED_DEMO
+CAND00052,REQ0006,1987,Research Director,Human Resources,Chennai,2026-01-09,2025-12-30,2026-01-21,2026-02-13,Hired,Campus,SIMULATED_DEMO
+CAND00053,REQ0058,,Sales Representative,Research & Development,Bengaluru,2025-09-14,2025-09-05,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00054,REQ0076,1435,Manager,Sales,Mumbai,2026-03-22,2026-02-28,2026-04-16,2026-04-26,Hired,Employee Referral,SIMULATED_DEMO
+CAND00055,REQ0031,,Healthcare Representative,Human Resources,Pune,2025-12-27,2025-12-17,,,Rejected,Campus,SIMULATED_DEMO
+CAND00056,REQ0016,,Sales Executive,Research & Development,Hyderabad,2025-11-10,2025-10-20,,,Withdrawn,Recruitment Agency,SIMULATED_DEMO
+CAND00057,REQ0072,,Healthcare Representative,Human Resources,Mumbai,2025-11-28,2025-11-04,,,Rejected,Campus,SIMULATED_DEMO
+CAND00058,REQ0069,1045,Sales Representative,Human Resources,Chennai,2026-04-18,2026-03-22,2026-05-19,2026-05-27,Hired,Company Website,SIMULATED_DEMO
+CAND00059,REQ0068,859,Sales Representative,Human Resources,Hyderabad,2025-12-28,2025-12-27,2026-01-16,2026-01-19,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00060,REQ0079,,Healthcare Representative,Sales,Pune,2026-03-16,2026-03-04,,,Withdrawn,Company Website,SIMULATED_DEMO
+CAND00061,REQ0056,,Sales Executive,Research & Development,Bengaluru,2025-04-01,2025-03-17,,,Rejected,Campus,SIMULATED_DEMO
+CAND00062,REQ0074,1628,Laboratory Technician,Human Resources,Pune,2026-04-24,2026-04-13,2026-05-15,2026-05-23,Hired,Campus,SIMULATED_DEMO
+CAND00063,REQ0031,,Sales Executive,Research & Development,Delhi NCR,2026-01-22,2026-01-10,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00064,REQ0020,273,Research Scientist,Human Resources,Mumbai,2026-05-11,2026-04-30,2026-05-20,2026-05-22,Hired,Job Portal,SIMULATED_DEMO
+CAND00065,REQ0025,,Laboratory Technician,Sales,Mumbai,2025-07-29,2025-07-19,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00066,REQ0021,33,Manager,Human Resources,Hyderabad,2026-01-02,2025-12-29,2026-01-12,2026-02-05,Hired,Campus,SIMULATED_DEMO
+CAND00067,REQ0065,1298,Human Resources,Human Resources,Bengaluru,2025-05-19,2025-05-03,2025-06-19,2025-07-04,Hired,Campus,SIMULATED_DEMO
+CAND00068,REQ0076,1013,Laboratory Technician,Human Resources,Mumbai,2026-01-04,2025-12-29,2026-01-16,2026-01-24,Hired,Campus,SIMULATED_DEMO
+CAND00069,REQ0077,1658,Human Resources,Human Resources,Bengaluru,2025-01-28,2025-01-02,2025-02-11,2025-03-02,Hired,Campus,SIMULATED_DEMO
+CAND00070,REQ0079,,Laboratory Technician,Sales,Hyderabad,2025-01-08,2024-12-31,,,Rejected,Campus,SIMULATED_DEMO
+CAND00071,REQ0023,1944,Research Director,Sales,Bengaluru,2025-01-09,2025-01-05,2025-02-11,2025-02-21,Hired,Job Portal,SIMULATED_DEMO
+CAND00072,REQ0042,622,Research Scientist,Sales,Bengaluru,2025-02-12,2025-01-30,2025-02-26,2025-03-09,Hired,Campus,SIMULATED_DEMO
+CAND00073,REQ0044,1835,Manufacturing Director,Sales,Chennai,2025-01-25,2024-12-30,2025-02-17,2025-03-05,Hired,Employee Referral,SIMULATED_DEMO
+CAND00074,REQ0032,,Manufacturing Director,Sales,Bengaluru,2026-01-22,2026-01-11,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00075,REQ0077,,Sales Representative,Research & Development,Bengaluru,2026-03-11,2026-02-15,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00076,REQ0055,520,Human Resources,Research & Development,Mumbai,2025-06-02,2025-05-15,2025-06-16,2025-07-09,Hired,Job Portal,SIMULATED_DEMO
+CAND00077,REQ0025,,Research Director,Human Resources,Mumbai,2025-07-20,2025-06-25,2025-08-21,,Offer Accepted,Employee Referral,SIMULATED_DEMO
+CAND00078,REQ0029,904,Healthcare Representative,Human Resources,Delhi NCR,2025-09-08,2025-08-26,2025-10-05,2025-10-14,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00079,REQ0034,1657,Human Resources,Research & Development,Delhi NCR,2025-03-02,2025-02-06,2025-03-29,2025-04-14,Hired,Campus,SIMULATED_DEMO
+CAND00080,REQ0003,,Research Director,Sales,Mumbai,2025-06-26,2025-06-04,2025-07-29,,Offer Accepted,Company Website,SIMULATED_DEMO
+CAND00081,REQ0022,,Sales Representative,Research & Development,Bengaluru,2025-10-18,2025-09-22,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00082,REQ0074,,Laboratory Technician,Research & Development,Delhi NCR,2025-06-02,2025-05-27,,,Rejected,Campus,SIMULATED_DEMO
+CAND00083,REQ0027,,Healthcare Representative,Human Resources,Bengaluru,2025-01-02,2025-01-02,,,Rejected,Campus,SIMULATED_DEMO
+CAND00084,REQ0010,1499,Manufacturing Director,Research & Development,Bengaluru,2025-10-14,2025-10-07,2025-10-24,2025-10-27,Hired,Job Portal,SIMULATED_DEMO
+CAND00085,REQ0034,1396,Manufacturing Director,Human Resources,Bengaluru,2026-03-04,2026-02-20,2026-03-18,2026-04-03,Hired,Job Portal,SIMULATED_DEMO
+CAND00086,REQ0040,586,Research Director,Sales,Bengaluru,2026-02-07,2026-01-18,2026-03-10,2026-03-19,Hired,Employee Referral,SIMULATED_DEMO
+CAND00087,REQ0050,,Research Director,Human Resources,Hyderabad,2026-02-12,2026-02-02,,,Withdrawn,Campus,SIMULATED_DEMO
+CAND00088,REQ0073,,Sales Executive,Research & Development,Mumbai,2025-06-16,2025-06-06,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00089,REQ0009,752,Healthcare Representative,Research & Development,Delhi NCR,2025-05-13,2025-05-06,2025-05-27,2025-06-01,Hired,Company Website,SIMULATED_DEMO
+CAND00090,REQ0033,,Research Director,Human Resources,Delhi NCR,2026-04-30,2026-04-15,,,Offer Declined,Employee Referral,SIMULATED_DEMO
+CAND00091,REQ0031,525,Laboratory Technician,Human Resources,Delhi NCR,2025-12-09,2025-11-12,2025-12-28,2026-01-16,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00092,REQ0018,,Human Resources,Human Resources,Pune,2025-02-16,2025-01-27,,,Rejected,Campus,SIMULATED_DEMO
+CAND00093,REQ0053,128,Manufacturing Director,Research & Development,Mumbai,2025-01-21,2025-01-09,2025-02-10,2025-02-26,Hired,Company Website,SIMULATED_DEMO
+CAND00094,REQ0062,,Human Resources,Sales,Bengaluru,2026-01-03,2025-12-15,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00095,REQ0028,,Research Director,Sales,Pune,2025-03-14,2025-03-14,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00096,REQ0020,,Research Scientist,Research & Development,Chennai,2026-05-13,2026-04-26,,,Offer Declined,Job Portal,SIMULATED_DEMO
+CAND00097,REQ0007,666,Human Resources,Human Resources,Delhi NCR,2026-02-19,2026-01-25,2026-03-07,2026-03-13,Hired,Employee Referral,SIMULATED_DEMO
+CAND00098,REQ0050,,Laboratory Technician,Sales,Mumbai,2026-04-30,2026-04-28,2026-05-15,,Offer Accepted,Recruitment Agency,SIMULATED_DEMO
+CAND00099,REQ0049,455,Research Director,Research & Development,Mumbai,2025-12-16,2025-12-16,2026-01-13,2026-01-26,Hired,Campus,SIMULATED_DEMO
+CAND00100,REQ0033,,Manufacturing Director,Sales,Hyderabad,2025-02-08,2025-02-06,,,Offer Declined,Campus,SIMULATED_DEMO
+CAND00101,REQ0049,,Healthcare Representative,Research & Development,Mumbai,2025-04-12,2025-03-19,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00102,REQ0076,453,Sales Representative,Research & Development,Pune,2025-08-06,2025-07-31,2025-08-24,2025-09-01,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00103,REQ0071,847,Sales Representative,Human Resources,Pune,2026-02-07,2026-01-30,2026-02-25,2026-03-08,Hired,Job Portal,SIMULATED_DEMO
+CAND00104,REQ0077,,Sales Executive,Human Resources,Delhi NCR,2026-03-02,2026-02-20,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00105,REQ0050,,Healthcare Representative,Sales,Mumbai,2025-06-07,2025-05-18,2025-06-23,,Offer Accepted,Campus,SIMULATED_DEMO
+CAND00106,REQ0022,1582,Sales Representative,Research & Development,Bengaluru,2025-08-20,2025-08-05,2025-09-02,2025-09-20,Hired,Job Portal,SIMULATED_DEMO
+CAND00107,REQ0034,,Research Director,Human Resources,Mumbai,2026-02-06,2026-01-19,,,Offer Declined,Company Website,SIMULATED_DEMO
+CAND00108,REQ0055,,Sales Representative,Sales,Chennai,2026-02-16,2026-01-27,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00109,REQ0005,328,Manufacturing Director,Sales,Mumbai,2026-02-04,2026-01-20,2026-02-27,2026-03-22,Hired,Employee Referral,SIMULATED_DEMO
+CAND00110,REQ0024,1642,Sales Executive,Human Resources,Pune,2025-11-30,2025-11-18,2025-12-29,2025-12-31,Hired,Employee Referral,SIMULATED_DEMO
+CAND00111,REQ0066,,Human Resources,Research & Development,Bengaluru,2025-08-20,2025-08-05,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00112,REQ0060,,Research Scientist,Research & Development,Pune,2025-03-07,2025-03-07,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00113,REQ0034,,Healthcare Representative,Human Resources,Bengaluru,2026-02-13,2026-02-05,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00114,REQ0032,,Research Director,Sales,Delhi NCR,2026-05-12,2026-04-14,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00115,REQ0068,,Manager,Sales,Mumbai,2026-02-14,2026-02-11,,,Withdrawn,Campus,SIMULATED_DEMO
+CAND00116,REQ0036,,Human Resources,Sales,Bengaluru,2025-08-01,2025-07-05,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00117,REQ0011,,Laboratory Technician,Sales,Hyderabad,2025-03-20,2025-03-13,,,Offer Declined,Employee Referral,SIMULATED_DEMO
+CAND00118,REQ0054,,Manufacturing Director,Sales,Delhi NCR,2026-03-05,2026-02-10,,,Withdrawn,Employee Referral,SIMULATED_DEMO
+CAND00119,REQ0033,1074,Manufacturing Director,Sales,Bengaluru,2025-06-09,2025-06-03,2025-06-21,2025-06-28,Hired,Employee Referral,SIMULATED_DEMO
+CAND00120,REQ0011,,Manufacturing Director,Human Resources,Bengaluru,2026-03-14,2026-03-11,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00121,REQ0005,533,Research Director,Human Resources,Pune,2025-05-05,2025-04-12,2025-06-07,2025-06-20,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00122,REQ0038,,Healthcare Representative,Research & Development,Hyderabad,2026-02-28,2026-02-28,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00123,REQ0018,,Manufacturing Director,Human Resources,Bengaluru,2026-04-04,2026-03-26,,,Withdrawn,Campus,SIMULATED_DEMO
+CAND00124,REQ0005,,Manufacturing Director,Research & Development,Hyderabad,2025-11-08,2025-11-03,,,Withdrawn,Job Portal,SIMULATED_DEMO
+CAND00125,REQ0057,376,Research Scientist,Sales,Delhi NCR,2025-01-23,2025-01-18,2025-02-10,2025-02-14,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00126,REQ0029,,Manager,Sales,Pune,2025-04-29,2025-04-08,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00127,REQ0029,,Laboratory Technician,Sales,Bengaluru,2025-07-02,2025-06-09,,,Withdrawn,Job Portal,SIMULATED_DEMO
+CAND00128,REQ0074,1392,Sales Representative,Sales,Delhi NCR,2025-12-11,2025-11-12,2025-12-25,2026-01-11,Hired,Employee Referral,SIMULATED_DEMO
+CAND00129,REQ0048,,Research Scientist,Research & Development,Hyderabad,2025-09-14,2025-08-27,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00130,REQ0051,1772,Sales Executive,Human Resources,Delhi NCR,2026-06-18,2026-06-04,2026-07-10,2026-07-12,Hired,Job Portal,SIMULATED_DEMO
+CAND00131,REQ0006,,Research Director,Human Resources,Chennai,2025-09-26,2025-09-04,,,Withdrawn,Employee Referral,SIMULATED_DEMO
+CAND00132,REQ0067,,Sales Executive,Human Resources,Pune,2025-11-16,2025-10-25,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00133,REQ0076,,Healthcare Representative,Human Resources,Mumbai,2026-02-15,2026-02-11,,,Offer Declined,Campus,SIMULATED_DEMO
+CAND00134,REQ0015,,Human Resources,Research & Development,Delhi NCR,2026-03-25,2026-03-18,,,Offer Declined,Recruitment Agency,SIMULATED_DEMO
+CAND00135,REQ0008,1489,Research Scientist,Sales,Hyderabad,2025-04-10,2025-03-24,2025-04-19,2025-05-08,Hired,Job Portal,SIMULATED_DEMO
+CAND00136,REQ0001,,Research Director,Human Resources,Mumbai,2025-08-09,2025-07-30,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00137,REQ0059,1514,Manufacturing Director,Human Resources,Bengaluru,2026-02-26,2026-02-07,2026-03-09,2026-03-13,Hired,Job Portal,SIMULATED_DEMO
+CAND00138,REQ0003,483,Sales Executive,Human Resources,Mumbai,2026-05-07,2026-04-30,2026-05-28,2026-06-07,Hired,Job Portal,SIMULATED_DEMO
+CAND00139,REQ0014,202,Sales Executive,Sales,Bengaluru,2025-06-08,2025-06-02,2025-07-08,2025-07-09,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00140,REQ0023,1296,Manufacturing Director,Research & Development,Chennai,2025-01-15,2024-12-26,2025-02-07,2025-02-28,Hired,Job Portal,SIMULATED_DEMO
+CAND00141,REQ0030,,Manager,Research & Development,Pune,2025-03-10,2025-02-13,,,Rejected,Campus,SIMULATED_DEMO
+CAND00142,REQ0017,1395,Healthcare Representative,Sales,Chennai,2026-04-05,2026-03-16,2026-04-23,2026-05-14,Hired,Employee Referral,SIMULATED_DEMO
+CAND00143,REQ0065,352,Manufacturing Director,Human Resources,Bengaluru,2025-07-27,2025-07-19,2025-08-03,2025-08-05,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00144,REQ0067,,Laboratory Technician,Research & Development,Bengaluru,2026-06-17,2026-05-28,2026-07-05,,Offer Accepted,Company Website,SIMULATED_DEMO
+CAND00145,REQ0024,,Sales Representative,Human Resources,Mumbai,2025-12-04,2025-11-27,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00146,REQ0048,2051,Healthcare Representative,Human Resources,Delhi NCR,2025-03-01,2025-02-07,2025-04-04,2025-04-07,Hired,Job Portal,SIMULATED_DEMO
+CAND00147,REQ0053,,Sales Representative,Human Resources,Chennai,2025-01-26,2025-01-04,,,Withdrawn,Job Portal,SIMULATED_DEMO
+CAND00148,REQ0028,,Research Scientist,Human Resources,Bengaluru,2026-02-16,2026-01-26,,,Withdrawn,Recruitment Agency,SIMULATED_DEMO
+CAND00149,REQ0030,304,Laboratory Technician,Human Resources,Hyderabad,2025-01-28,2025-01-14,2025-02-11,2025-03-04,Hired,Campus,SIMULATED_DEMO
+CAND00150,REQ0004,475,Research Scientist,Research & Development,Delhi NCR,2025-06-12,2025-05-27,2025-07-12,2025-07-16,Hired,Employee Referral,SIMULATED_DEMO
+CAND00151,REQ0065,,Healthcare Representative,Human Resources,Hyderabad,2025-05-08,2025-04-16,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00152,REQ0047,,Manufacturing Director,Sales,Hyderabad,2026-06-19,2026-05-21,,,Offer Declined,Company Website,SIMULATED_DEMO
+CAND00153,REQ0038,,Manufacturing Director,Human Resources,Chennai,2026-04-27,2026-04-22,,,Offer Declined,Employee Referral,SIMULATED_DEMO
+CAND00154,REQ0030,,Sales Representative,Sales,Mumbai,2026-05-03,2026-04-27,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00155,REQ0032,,Sales Representative,Human Resources,Delhi NCR,2025-06-19,2025-06-13,,,Offer Declined,Company Website,SIMULATED_DEMO
+CAND00156,REQ0002,2008,Healthcare Representative,Sales,Hyderabad,2026-05-01,2026-04-28,2026-05-14,2026-05-18,Hired,Employee Referral,SIMULATED_DEMO
+CAND00157,REQ0043,,Manager,Human Resources,Bengaluru,2025-12-19,2025-11-20,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00158,REQ0075,351,Laboratory Technician,Sales,Mumbai,2026-01-06,2025-12-18,2026-01-30,2026-02-02,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00159,REQ0053,,Healthcare Representative,Research & Development,Bengaluru,2025-10-03,2025-09-05,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00160,REQ0012,,Sales Representative,Sales,Pune,2025-12-10,2025-11-11,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00161,REQ0002,,Healthcare Representative,Sales,Delhi NCR,2025-01-30,2025-01-04,,,Offer Declined,Campus,SIMULATED_DEMO
+CAND00162,REQ0039,,Sales Executive,Human Resources,Chennai,2025-06-25,2025-05-27,,,Offer Declined,Employee Referral,SIMULATED_DEMO
+CAND00163,REQ0011,,Human Resources,Human Resources,Pune,2025-06-12,2025-06-03,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00164,REQ0055,49,Manager,Research & Development,Delhi NCR,2025-09-27,2025-09-17,2025-10-06,2025-10-10,Hired,Campus,SIMULATED_DEMO
+CAND00165,REQ0070,,Manager,Sales,Bengaluru,2026-01-26,2026-01-02,,,Withdrawn,Campus,SIMULATED_DEMO
+CAND00166,REQ0044,,Healthcare Representative,Sales,Hyderabad,2026-02-24,2026-02-10,2026-03-10,,Offer Accepted,Job Portal,SIMULATED_DEMO
+CAND00167,REQ0058,422,Human Resources,Human Resources,Hyderabad,2025-06-16,2025-06-08,2025-07-04,2025-07-06,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00168,REQ0013,,Manufacturing Director,Human Resources,Bengaluru,2026-05-27,2026-05-19,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00169,REQ0023,1162,Manager,Sales,Bengaluru,2025-11-16,2025-11-04,2025-12-02,2025-12-16,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00170,REQ0028,,Healthcare Representative,Research & Development,Delhi NCR,2026-02-19,2026-02-01,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00171,REQ0002,,Manufacturing Director,Research & Development,Bengaluru,2026-06-03,2026-05-15,,,Offer Declined,Job Portal,SIMULATED_DEMO
+CAND00172,REQ0038,481,Research Director,Research & Development,Hyderabad,2025-06-10,2025-05-29,2025-07-05,2025-07-25,Hired,Company Website,SIMULATED_DEMO
+CAND00173,REQ0036,231,Research Director,Sales,Chennai,2025-10-16,2025-09-23,2025-11-19,2025-12-02,Hired,Employee Referral,SIMULATED_DEMO
+CAND00174,REQ0029,,Sales Executive,Sales,Bengaluru,2025-02-03,2025-01-07,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00175,REQ0013,,Manufacturing Director,Sales,Hyderabad,2025-06-17,2025-06-08,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00176,REQ0020,1892,Research Director,Research & Development,Hyderabad,2025-03-02,2025-02-26,2025-03-14,2025-04-07,Hired,Job Portal,SIMULATED_DEMO
+CAND00177,REQ0016,,Human Resources,Sales,Hyderabad,2026-04-09,2026-04-08,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00178,REQ0004,18,Laboratory Technician,Human Resources,Delhi NCR,2026-06-08,2026-05-11,2026-07-04,2026-07-26,Hired,Job Portal,SIMULATED_DEMO
+CAND00179,REQ0049,,Healthcare Representative,Human Resources,Chennai,2025-07-01,2025-06-24,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00180,REQ0060,,Healthcare Representative,Research & Development,Chennai,2025-09-12,2025-08-18,,,Withdrawn,Employee Referral,SIMULATED_DEMO
+CAND00181,REQ0047,,Research Director,Sales,Delhi NCR,2025-08-17,2025-08-14,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00182,REQ0021,1581,Laboratory Technician,Human Resources,Mumbai,2025-03-16,2025-02-25,2025-04-09,2025-05-03,Hired,Campus,SIMULATED_DEMO
+CAND00183,REQ0022,24,Laboratory Technician,Sales,Chennai,2026-06-23,2026-06-13,2026-07-22,2026-08-13,Hired,Employee Referral,SIMULATED_DEMO
+CAND00184,REQ0024,,Human Resources,Sales,Pune,2025-05-05,2025-04-13,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00185,REQ0057,,Research Scientist,Sales,Chennai,2026-05-08,2026-04-29,,,Withdrawn,Recruitment Agency,SIMULATED_DEMO
+CAND00186,REQ0053,1646,Manufacturing Director,Human Resources,Chennai,2025-03-04,2025-02-17,2025-04-03,2025-04-15,Hired,Campus,SIMULATED_DEMO
+CAND00187,REQ0018,,Research Director,Human Resources,Chennai,2025-06-22,2025-06-21,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00188,REQ0051,1193,Healthcare Representative,Sales,Hyderabad,2026-02-11,2026-02-09,2026-03-10,2026-03-17,Hired,Employee Referral,SIMULATED_DEMO
+CAND00189,REQ0051,1433,Manufacturing Director,Research & Development,Pune,2025-09-07,2025-08-31,2025-09-28,2025-09-30,Hired,Employee Referral,SIMULATED_DEMO
+CAND00190,REQ0006,,Human Resources,Sales,Chennai,2026-02-28,2026-01-30,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00191,REQ0048,,Manager,Research & Development,Mumbai,2025-12-12,2025-11-23,2026-01-02,,Offer Accepted,Recruitment Agency,SIMULATED_DEMO
+CAND00192,REQ0037,,Manufacturing Director,Human Resources,Mumbai,2025-04-09,2025-03-30,2025-05-07,,Offer Accepted,Employee Referral,SIMULATED_DEMO
+CAND00193,REQ0075,,Laboratory Technician,Sales,Delhi NCR,2025-08-06,2025-07-25,,,Offer Declined,Employee Referral,SIMULATED_DEMO
+CAND00194,REQ0045,,Manufacturing Director,Sales,Delhi NCR,2026-04-14,2026-03-29,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00195,REQ0054,,Research Director,Human Resources,Bengaluru,2025-10-24,2025-10-12,2025-11-08,,Offer Accepted,Campus,SIMULATED_DEMO
+CAND00196,REQ0015,,Research Director,Human Resources,Hyderabad,2025-01-20,2024-12-27,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00197,REQ0029,1588,Sales Executive,Human Resources,Delhi NCR,2026-01-27,2026-01-15,2026-02-13,2026-02-21,Hired,Company Website,SIMULATED_DEMO
+CAND00198,REQ0012,,Sales Representative,Human Resources,Pune,2025-04-28,2025-04-12,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00199,REQ0071,90,Manufacturing Director,Research & Development,Pune,2025-02-27,2025-02-16,2025-03-28,2025-04-16,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00200,REQ0074,1088,Human Resources,Research & Development,Pune,2025-05-15,2025-04-29,2025-06-01,2025-06-24,Hired,Employee Referral,SIMULATED_DEMO
+CAND00201,REQ0020,,Sales Representative,Research & Development,Delhi NCR,2025-07-03,2025-06-19,,,Withdrawn,Recruitment Agency,SIMULATED_DEMO
+CAND00202,REQ0018,,Manufacturing Director,Research & Development,Mumbai,2025-01-11,2024-12-23,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00203,REQ0031,,Laboratory Technician,Research & Development,Hyderabad,2025-06-29,2025-06-10,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00204,REQ0078,1297,Sales Representative,Sales,Hyderabad,2025-02-26,2025-02-05,2025-03-08,2025-04-01,Hired,Company Website,SIMULATED_DEMO
+CAND00205,REQ0002,2068,Sales Executive,Research & Development,Mumbai,2026-03-23,2026-03-08,2026-04-11,2026-04-30,Hired,Campus,SIMULATED_DEMO
+CAND00206,REQ0065,808,Laboratory Technician,Research & Development,Mumbai,2025-07-09,2025-06-18,2025-08-08,2025-08-28,Hired,Employee Referral,SIMULATED_DEMO
+CAND00207,REQ0034,,Human Resources,Research & Development,Bengaluru,2025-07-26,2025-07-14,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00208,REQ0062,293,Laboratory Technician,Research & Development,Hyderabad,2025-04-02,2025-03-08,2025-04-29,2025-05-18,Hired,Employee Referral,SIMULATED_DEMO
+CAND00209,REQ0011,1859,Research Director,Research & Development,Delhi NCR,2025-04-19,2025-04-09,2025-05-17,2025-05-31,Hired,Campus,SIMULATED_DEMO
+CAND00210,REQ0016,143,Research Director,Research & Development,Pune,2026-01-25,2026-01-05,2026-02-03,2026-02-15,Hired,Company Website,SIMULATED_DEMO
+CAND00211,REQ0015,587,Sales Representative,Sales,Pune,2025-06-07,2025-05-22,2025-06-28,2025-07-10,Hired,Job Portal,SIMULATED_DEMO
+CAND00212,REQ0052,,Sales Representative,Sales,Chennai,2025-02-10,2025-01-19,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00213,REQ0057,1167,Research Scientist,Research & Development,Bengaluru,2026-03-05,2026-03-04,2026-04-04,2026-04-24,Hired,Campus,SIMULATED_DEMO
+CAND00214,REQ0071,2018,Sales Executive,Research & Development,Bengaluru,2026-06-24,2026-06-24,2026-07-23,2026-08-11,Hired,Campus,SIMULATED_DEMO
+CAND00215,REQ0032,,Human Resources,Sales,Bengaluru,2025-04-29,2025-04-22,2025-05-11,,Offer Accepted,Company Website,SIMULATED_DEMO
+CAND00216,REQ0066,,Research Director,Research & Development,Mumbai,2025-01-02,2024-12-17,,,Offer Declined,Job Portal,SIMULATED_DEMO
+CAND00217,REQ0043,,Sales Executive,Research & Development,Pune,2026-05-23,2026-05-14,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00218,REQ0047,,Sales Representative,Human Resources,Hyderabad,2025-06-11,2025-06-05,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00219,REQ0001,,Research Scientist,Research & Development,Hyderabad,2025-04-29,2025-04-01,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00220,REQ0049,1292,Sales Executive,Sales,Mumbai,2026-03-16,2026-02-27,2026-03-27,2026-04-17,Hired,Company Website,SIMULATED_DEMO
+CAND00221,REQ0070,,Laboratory Technician,Sales,Mumbai,2025-07-28,2025-07-18,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00222,REQ0016,343,Sales Executive,Research & Development,Mumbai,2025-06-03,2025-05-23,2025-06-11,2025-06-18,Hired,Job Portal,SIMULATED_DEMO
+CAND00223,REQ0023,1865,Human Resources,Human Resources,Bengaluru,2025-07-30,2025-07-15,2025-08-10,2025-08-20,Hired,Job Portal,SIMULATED_DEMO
+CAND00224,REQ0021,,Sales Executive,Research & Development,Pune,2025-07-11,2025-07-05,,,Withdrawn,Job Portal,SIMULATED_DEMO
+CAND00225,REQ0002,,Healthcare Representative,Research & Development,Chennai,2025-11-20,2025-10-25,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00226,REQ0078,,Sales Representative,Human Resources,Hyderabad,2026-02-13,2026-02-06,,,Offer Declined,Company Website,SIMULATED_DEMO
+CAND00227,REQ0013,,Sales Executive,Sales,Delhi NCR,2026-04-03,2026-03-14,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00228,REQ0028,,Research Scientist,Research & Development,Chennai,2026-04-17,2026-03-26,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00229,REQ0042,,Healthcare Representative,Research & Development,Bengaluru,2026-03-17,2026-03-03,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00230,REQ0006,,Healthcare Representative,Human Resources,Delhi NCR,2026-03-08,2026-03-02,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00231,REQ0049,762,Research Scientist,Research & Development,Bengaluru,2025-06-06,2025-06-01,2025-07-07,2025-07-21,Hired,Company Website,SIMULATED_DEMO
+CAND00232,REQ0063,,Research Scientist,Sales,Chennai,2025-03-05,2025-02-27,2025-04-05,,Offer Accepted,Campus,SIMULATED_DEMO
+CAND00233,REQ0033,,Human Resources,Research & Development,Bengaluru,2025-03-12,2025-02-15,,,Rejected,Campus,SIMULATED_DEMO
+CAND00234,REQ0073,1116,Human Resources,Research & Development,Pune,2026-03-23,2026-02-26,2026-04-25,2026-05-07,Hired,Employee Referral,SIMULATED_DEMO
+CAND00235,REQ0057,,Manager,Human Resources,Pune,2026-06-02,2026-05-14,2026-07-03,,Offer Accepted,Recruitment Agency,SIMULATED_DEMO
+CAND00236,REQ0048,,Sales Representative,Research & Development,Hyderabad,2025-05-27,2025-05-27,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00237,REQ0055,,Research Director,Sales,Hyderabad,2025-05-30,2025-05-05,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00238,REQ0034,,Sales Representative,Research & Development,Chennai,2026-01-14,2025-12-28,2026-02-06,,Offer Accepted,Employee Referral,SIMULATED_DEMO
+CAND00239,REQ0056,,Research Scientist,Human Resources,Delhi NCR,2025-03-11,2025-02-10,,,Withdrawn,Job Portal,SIMULATED_DEMO
+CAND00240,REQ0043,1128,Research Director,Research & Development,Mumbai,2025-12-11,2025-12-02,2025-12-24,2026-01-13,Hired,Company Website,SIMULATED_DEMO
+CAND00241,REQ0073,,Research Scientist,Research & Development,Hyderabad,2026-06-23,2026-06-17,,,Withdrawn,Employee Referral,SIMULATED_DEMO
+CAND00242,REQ0075,,Research Scientist,Research & Development,Chennai,2026-02-16,2026-01-28,2026-02-25,,Offer Accepted,Job Portal,SIMULATED_DEMO
+CAND00243,REQ0030,888,Sales Executive,Sales,Bengaluru,2026-02-21,2026-02-16,2026-03-02,2026-03-14,Hired,Job Portal,SIMULATED_DEMO
+CAND00244,REQ0068,,Sales Executive,Research & Development,Delhi NCR,2025-01-05,2025-01-03,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00245,REQ0075,,Human Resources,Human Resources,Bengaluru,2025-09-17,2025-08-31,,,Withdrawn,Campus,SIMULATED_DEMO
+CAND00246,REQ0014,1525,Research Director,Research & Development,Bengaluru,2025-12-24,2025-12-03,2025-12-31,2026-01-21,Hired,Company Website,SIMULATED_DEMO
+CAND00247,REQ0038,,Sales Representative,Human Resources,Pune,2025-06-17,2025-05-26,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00248,REQ0074,,Research Director,Sales,Bengaluru,2025-06-02,2025-05-05,2025-06-26,,Offer Accepted,Recruitment Agency,SIMULATED_DEMO
+CAND00249,REQ0069,,Research Director,Human Resources,Chennai,2025-02-24,2025-01-28,,,Rejected,Campus,SIMULATED_DEMO
+CAND00250,REQ0016,,Sales Executive,Sales,Mumbai,2025-02-17,2025-02-05,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00251,REQ0073,,Research Scientist,Human Resources,Chennai,2026-04-18,2026-04-14,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00252,REQ0012,,Sales Executive,Human Resources,Delhi NCR,2025-04-17,2025-04-07,,,Offer Declined,Recruitment Agency,SIMULATED_DEMO
+CAND00253,REQ0023,340,Sales Executive,Human Resources,Mumbai,2026-02-22,2026-02-02,2026-03-06,2026-03-28,Hired,Company Website,SIMULATED_DEMO
+CAND00254,REQ0041,,Sales Executive,Sales,Bengaluru,2026-04-12,2026-03-17,,,Withdrawn,Employee Referral,SIMULATED_DEMO
+CAND00255,REQ0008,395,Healthcare Representative,Research & Development,Pune,2025-09-08,2025-08-25,2025-10-01,2025-10-03,Hired,Company Website,SIMULATED_DEMO
+CAND00256,REQ0027,,Sales Representative,Sales,Hyderabad,2025-10-09,2025-09-26,,,Rejected,Campus,SIMULATED_DEMO
+CAND00257,REQ0004,,Manufacturing Director,Sales,Bengaluru,2026-04-20,2026-03-24,,,Offer Declined,Employee Referral,SIMULATED_DEMO
+CAND00258,REQ0060,41,Manager,Sales,Chennai,2025-07-06,2025-07-04,2025-07-30,2025-08-07,Hired,Employee Referral,SIMULATED_DEMO
+CAND00259,REQ0034,,Manager,Research & Development,Hyderabad,2025-01-27,2025-01-20,,,Withdrawn,Company Website,SIMULATED_DEMO
+CAND00260,REQ0043,1318,Manufacturing Director,Human Resources,Delhi NCR,2025-10-31,2025-10-30,2025-11-22,2025-12-08,Hired,Employee Referral,SIMULATED_DEMO
+CAND00261,REQ0004,,Laboratory Technician,Human Resources,Hyderabad,2026-04-03,2026-03-29,2026-04-13,,Offer Accepted,Company Website,SIMULATED_DEMO
+CAND00262,REQ0057,,Manufacturing Director,Research & Development,Mumbai,2025-11-19,2025-11-16,,,Withdrawn,Job Portal,SIMULATED_DEMO
+CAND00263,REQ0027,,Human Resources,Human Resources,Mumbai,2025-04-10,2025-04-03,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00264,REQ0077,446,Healthcare Representative,Sales,Pune,2025-02-13,2025-02-10,2025-02-25,2025-03-04,Hired,Campus,SIMULATED_DEMO
+CAND00265,REQ0012,,Human Resources,Human Resources,Hyderabad,2026-02-24,2026-02-07,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00266,REQ0031,,Research Scientist,Research & Development,Mumbai,2025-11-21,2025-10-23,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00267,REQ0067,,Research Scientist,Sales,Delhi NCR,2026-02-15,2026-01-31,,,Rejected,Campus,SIMULATED_DEMO
+CAND00268,REQ0061,,Sales Representative,Human Resources,Hyderabad,2026-02-15,2026-02-12,2026-03-09,,Offer Accepted,Campus,SIMULATED_DEMO
+CAND00269,REQ0026,,Healthcare Representative,Sales,Pune,2025-09-13,2025-08-28,,,Rejected,Job Portal,SIMULATED_DEMO
+CAND00270,REQ0010,,Research Director,Human Resources,Hyderabad,2025-12-17,2025-11-28,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00271,REQ0060,,Sales Executive,Sales,Pune,2025-11-04,2025-10-22,2025-12-07,,Offer Accepted,Recruitment Agency,SIMULATED_DEMO
+CAND00272,REQ0031,990,Human Resources,Research & Development,Chennai,2026-01-27,2026-01-23,2026-02-27,2026-03-23,Hired,Employee Referral,SIMULATED_DEMO
+CAND00273,REQ0052,1009,Research Director,Human Resources,Delhi NCR,2025-04-25,2025-04-16,2025-05-09,2025-05-26,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00274,REQ0047,,Sales Executive,Human Resources,Hyderabad,2025-08-05,2025-07-22,,,Rejected,Recruitment Agency,SIMULATED_DEMO
+CAND00275,REQ0078,,Healthcare Representative,Sales,Delhi NCR,2025-02-03,2025-01-26,,,Rejected,Company Website,SIMULATED_DEMO
+CAND00276,REQ0058,1949,Sales Executive,Sales,Hyderabad,2025-03-30,2025-03-27,2025-04-13,2025-05-01,Hired,Employee Referral,SIMULATED_DEMO
+CAND00277,REQ0009,1523,Research Scientist,Human Resources,Pune,2025-09-29,2025-09-10,2025-10-31,2025-11-06,Hired,Company Website,SIMULATED_DEMO
+CAND00278,REQ0047,,Manufacturing Director,Human Resources,Delhi NCR,2025-07-11,2025-06-19,,,Offer Declined,Job Portal,SIMULATED_DEMO
+CAND00279,REQ0050,,Research Director,Sales,Mumbai,2025-08-15,2025-07-22,,,Offer Declined,Job Portal,SIMULATED_DEMO
+CAND00280,REQ0044,1143,Sales Executive,Sales,Bengaluru,2026-04-09,2026-04-03,2026-05-03,2026-05-21,Hired,Company Website,SIMULATED_DEMO
+CAND00281,REQ0066,951,Laboratory Technician,Human Resources,Chennai,2025-08-27,2025-07-31,2025-09-06,2025-09-29,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00282,REQ0040,,Manufacturing Director,Sales,Pune,2025-07-14,2025-07-08,,,Rejected,Employee Referral,SIMULATED_DEMO
+CAND00283,REQ0019,,Sales Executive,Human Resources,Hyderabad,2025-01-05,2024-12-12,2025-01-27,,Offer Accepted,Company Website,SIMULATED_DEMO
+CAND00284,REQ0031,882,Human Resources,Research & Development,Hyderabad,2025-01-21,2025-01-06,2025-02-13,2025-02-28,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00285,REQ0063,639,Sales Executive,Sales,Pune,2026-02-21,2026-02-13,2026-03-05,2026-03-11,Hired,Job Portal,SIMULATED_DEMO
+CAND00286,REQ0003,1824,Research Scientist,Human Resources,Delhi NCR,2025-07-01,2025-06-17,2025-07-23,2025-08-16,Hired,Company Website,SIMULATED_DEMO
+CAND00287,REQ0034,1594,Laboratory Technician,Sales,Bengaluru,2025-12-22,2025-12-07,2026-01-01,2026-01-04,Hired,Company Website,SIMULATED_DEMO
+CAND00288,REQ0035,1816,Healthcare Representative,Research & Development,Delhi NCR,2026-03-07,2026-02-27,2026-03-17,2026-04-08,Hired,Recruitment Agency,SIMULATED_DEMO
+CAND00289,REQ0074,282,Sales Executive,Sales,Delhi NCR,2025-01-03,2024-12-13,2025-01-15,2025-02-01,Hired,Company Website,SIMULATED_DEMO
+CAND00290,REQ0070,,Manager,Human Resources,Pune,2025-11-04,2025-10-25,,,Rejected,Campus,SIMULATED_DEMO
